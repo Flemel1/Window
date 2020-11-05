@@ -1,0 +1,4 @@
+com\mycompany\window\App.class
+com\mycompany\window\PrimaryController.class
+module-info.class
+com\mycompany\window\SecondaryController.class
